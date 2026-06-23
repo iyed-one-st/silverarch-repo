@@ -24,7 +24,7 @@ sudo nano /etc/pacman.conf
 ```bash
 [silverarch-repo]
 SigLevel = Optional TrustAll
-Server = https://raw.githubusercontent.com/iyed-one-st/silverarch-repo/main/x86_64/
+Server = https://raw.githubusercontent.com/s1lverarch/silverarch-repo/main/x86_64/
 ```
 
 ## Update Pacman
